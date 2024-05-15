@@ -1,0 +1,7 @@
+C:\Users\manoj\Desktop\CentraLogic Training\Simple Task List Application\Simple Task List Application\bin\Debug\Simple Task List Application.exe.config
+C:\Users\manoj\Desktop\CentraLogic Training\Simple Task List Application\Simple Task List Application\bin\Debug\Simple Task List Application.exe
+C:\Users\manoj\Desktop\CentraLogic Training\Simple Task List Application\Simple Task List Application\bin\Debug\Simple Task List Application.pdb
+C:\Users\manoj\Desktop\CentraLogic Training\Simple Task List Application\Simple Task List Application\obj\Debug\Simple Task List Application.csproj.AssemblyReference.cache
+C:\Users\manoj\Desktop\CentraLogic Training\Simple Task List Application\Simple Task List Application\obj\Debug\Simple Task List Application.csproj.CoreCompileInputs.cache
+C:\Users\manoj\Desktop\CentraLogic Training\Simple Task List Application\Simple Task List Application\obj\Debug\Simple Task List Application.exe
+C:\Users\manoj\Desktop\CentraLogic Training\Simple Task List Application\Simple Task List Application\obj\Debug\Simple Task List Application.pdb
